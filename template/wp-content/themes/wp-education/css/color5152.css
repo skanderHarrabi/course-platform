@@ -1,0 +1,337 @@
+/**
+ * Default
+ */
+
+
+
+/* background color */
+
+.ep_course_category_list a:hover,
+.ep_course_category_list a:focus,
+.ep_course_category_list li.current-cat a,
+.widget.widget_tag_cloud a:hover,
+.widget.widget_tag_cloud a:focus,
+.widget.widget_product_tag_cloud a:hover,
+.widget.widget_product_tag_cloud a:focus,
+.btn-primary,
+.button-primary,
+.ep-single-course-header .lp-course-buttons button,
+input[type="submit"].wpcf7-submit,
+.tml-submit-wrap input[type="submit"],
+input[type="submit"].button-primary,
+.ep-vc-theme-btn-primary-container .ep-vc-theme-btn-primary,
+button.btn-primary, 
+input[type="button"].btn-primary, 
+input[type="reset"].btn-primary, 
+input[type="submit"].btn-primary,
+.list-inline a:hover,
+.list-inline a:focus,
+.ep-article.sticky figcaption:before,
+.ep_theme_paignation .pager li>a:hover,
+.ep_theme_paignation .pager li>a:focus,
+.ep_theme_paignation .pager .active span,
+.ep_theme_paignation .pager .active a,
+.site-content .learn-press-pagination ul > li a:hover, 
+.site-content .learn-press-pagination ul > li a:focus, 
+.site-content .learn-press-pagination ul > li span,
+.ep-course-grid .course-category, 
+.ep-course-slider .course-category,
+.ep-post-grid .ep-post-category, 
+.ep-post-slider .ep-post-category,
+.ep-course-slider.owl-theme .owl-controls .owl-page span,
+.ep-post-slider.owl-theme .owl-controls .owl-page span,
+.ep-testimonials.owl-theme .owl-controls .owl-page span,
+.ep-event-slider.owl-theme .owl-controls .owl-page span,
+.ep-course-slider.ep-default-width-slider.owl-theme .owl-controls .owl-buttons > div,
+.ep-post-slider.owl-theme .owl-controls .owl-buttons > div,
+.ep-event-slider.owl-theme .owl-controls .owl-buttons > div,
+.ep-instructor-content-type-slider.owl-theme .owl-controls .owl-buttons > div,
+.ep-social-icons ul li a,
+.entry-tab-inner .ep-section-title:after,
+.widget-area .widget-title:after,
+.ep-section-title.ep-section-title-border:after,
+.ep-course-ajax-search-result-area li a:hover,
+.entry-content > .vc_row.ep_vc_row-background-primary, .entry-content > .container > .vc_row.ep_vc_row-background-primary,
+.vc_tta-container .vc_tta-accordion.ep-vc-tta-accordion-theme-default .vc_tta-panel.vc_active .vc_tta-panel-heading,
+.vc_tta-container .vc_tta-accordion.ep-vc-tta-accordion-theme-default.vc_tta.vc_general .vc_tta-panel .vc_tta-panel-heading:hover,
+.ep-nav-tabs > li > a::after,
+.ep-tab-pane-reviews .course-rating .detailed-rating .stars > div.bar .full_bar > div,
+.learn-press .course-meta > div .value.lp-progress-bar .lp-progress-value,
+.ep_profile_login_page > a > span,
+.ep_cart_icon > a > span,
+.navbar.navbar-educationpress.ep-menu-hover-border .navbar-nav>li>a:after,
+.slicknav_menu .slicknav_icon-bar,
+.slicknav_menu .slicknav_btn.slicknav_open,
+.ep-pre-header,
+.site-content .lp-course-progress .lp-progress-bar .lp-progress-value,
+body #course-curriculum-popup #popup-main #popup-header,
+.ep-feature-title h3:before,
+.ep-course-category-item,
+.ep_vc_progress_bar.vc_progress_bar .vc_single_bar .vc_bar,
+.woocommerce #respond input#submit, 
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button,
+.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current,
+.woocommerce span.onsale,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.related.products > h2:before,
+.up-sells.upsells.products > h2:before,
+.cross-sells > h2:before,
+.cart_totals > h2:before,
+.woocommerce-billing-fields > h3:before,
+.woocommerce-shipping-fields > h3:before,
+#order_review_heading:before,
+.woocommerce-Address-title > h3:before,
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,
+#tribe-bar-form .tribe-bar-submit input[type=submit],
+.tribe-events-calendar thead th,
+#tribe-events .tribe-events-button, #tribe-events .tribe-events-button:hover, #tribe_events_filters_wrapper input[type=submit], .tribe-events-button, .tribe-events-button.tribe-active:hover, .tribe-events-button.tribe-inactive, .tribe-events-button:hover, .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-], .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>a,
+#tribe-events-content .tribe-events-tooltip h4,
+.tribe-events-list-separator-month:before,
+.tribe-events-list .tribe-events-event-cost span,
+.tribe-events-read-more,
+.tribe-events-day .tribe-events-day-time-slot h5:before,
+.ep-lms-statistics .ep-counter-number,
+div.sharedaddy h3.sd-title:after,
+#tab-withdrawals h2:after,
+.woocommerce div.product div.images .woocommerce-product-gallery__trigger,
+.ep-404-additional-info .widget-title:after,
+.learn-press-content-item-summary button,
+#popup_panel input[type="button"],
+.pmpro_btn, .pmpro_btn:link, .pmpro_content_message a, .pmpro_content_message a:link, input[type=submit].pmpro_btn,
+#learn-press-pmpro-notice.purchase-course a,
+.site-content ul.learn-press-nav-tabs .course-nav.active:after, 
+.site-content ul.learn-press-nav-tabs .course-nav:hover:after,
+#learn-press-user-profile #learn-press-profile-nav .tabs > li.active > a,
+#learn-press-user-profile #learn-press-profile-nav .tabs > li.active > ul li.active > a,
+#learn-press-user-profile #learn-press-profile-nav .tabs > li a:hover,
+#learn-press-user-profile #learn-press-profile-nav .tabs > li:hover:not(.active) > a,
+.ep-course-navigations form[name="search-course"] .search-course-button:hover, .ep-course-navigations form[name="search-course"] .search-course-button:focus,
+body .lp-list-table thead tr th,
+#profile-content-settings button,
+.become-teacher-form button,
+.place-order-action button,
+.submit-review {
+    background: #25c1e7;
+}
+
+
+
+/* Text Color */
+a,
+.navbar-educationpress .navbar-nav .current-menu-item.active>a, 
+.navbar-educationpress .navbar-nav .current-menu-item.active>a:focus, 
+.navbar-educationpress .navbar-nav .current-menu-item.active>a:hover,
+
+.header-transparent.navbar-educationpress .navbar-nav>li.current-menu-ancestor>a, 
+body.page.ep-has-page-title .navbar-educationpress .navbar-nav>li.current-menu-ancestor>a, 
+body.ep-global-page-header-transparent .navbar-educationpress .navbar-nav>li.current-menu-ancestor>a, 
+.navbar-educationpress .navbar-nav>.current-menu-parent > a,
+.navbar-educationpress .navbar-nav>.current-menu-parent > a:focus,
+.navbar-educationpress .navbar-nav>.current-menu-parent > a:hover,
+.widget a:hover,
+.widget a:focus,
+.ep-course-item .course-title:hover,
+.ep-course-item .course-title:focus,
+.ep-article .entry-title a:hover,
+.ep-article .entry-title a:focus,
+.ep-article .entry-meta a:hover,
+.ep-article .entry-meta a:focus,
+.logged-in-as a:hover,
+.logged-in-as a:focus,
+.ep-media-heading a:hover,
+.ep-media-heading a:focus,
+.ep-course-slider .ep-course-price, .ep-course-grid .ep-course-price, .ep-archive-course-item .ep-course-price,
+.ep-post-meta a:hover,
+.ep_vc_row-color-white .ep-post-slider .ep-post-meta a:hover,
+.entry-footer .edit-link a:hover,
+.entry-footer .edit-link a:focus,
+.dropdown-menu>.active>a, 
+.dropdown-menu>.active>a:focus, 
+.dropdown-menu>.active>a:hover,
+.ep-course-search .ep-lms-stats > span i,
+.ep-nav-tabs > li.active > a, 
+.ep-nav-tabs > li > a:hover,
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover,
+#learn-press-course-curriculum .section .course-item a:hover,
+#learn-press-course-curriculum .section .course-item a:focus,
+.slicknav_menu .slicknav_btn.slicknav_open,
+.slicknav_menu .slicknav_btn.slicknav_open:focus,
+.slicknav_menu .slicknav_btn.slicknav_open:active,
+.slicknav_btn,
+.wpb-fp-filter li.active,
+.site-content .course-tabs .learn-press-nav-tabs .course-nav.active a,
+.learn-press-user-profile .learn-press-tabs-wrapper-x .learn-press-subtabs > li.current a,
+.ep-features.ep-features-icon-primary-color .ep-feature-icon i,
+.woocommerce div.product form.cart .reset_variations,
+.woocommerce .product_meta a,
+.ep-event-slider .ep-event-price, .ep-event-grid .ep-event-price,
+.woocommerce .woocommerce-MyAccount-content a,
+.course-curriculum ul.curriculum-sections .section-content .course-item .section-item-link:before,
+.ep-course-info li i {
+	color: #25c1e7;
+}
+
+
+
+/* Border Color */
+.navbar-educationpress .dropdown-menu,
+.widget_search .search-field:focus,
+.ep-404-additional-info .search-form .search-field:focus,
+.widget.widget_tag_cloud a,
+.widget.widget_product_tag_cloud a,
+.widget select:focus,
+.ep-course-navigations select:focus,
+.ep-course-navigations .usearchbtn:hover,
+.ep-course-navigations .usearchbtn:focus,
+.ep-list-grid-view .btn:hover,
+.ep-list-grid-view .btn:focus,
+.btn-primary,
+.button-primary,
+.ep-single-course-header .lp-course-buttons button,
+input[type="submit"].wpcf7-submit,
+.tml-submit-wrap input[type="submit"],
+input[type="submit"].button-primary,
+button.btn-primary, 
+input[type="button"].btn-primary, 
+input[type="reset"].btn-primary, 
+input[type="submit"].btn-primary,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="range"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="time"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="color"]:focus,
+textarea:focus,
+.form-control:focus,
+select:focus,
+.vc_tta-container .vc_tta-accordion.ep-vc-tta-accordion-theme-default .vc_tta-panel.vc_active .vc_tta-panel-heading,
+.vc_tta-container .vc_tta-accordion.ep-vc-tta-accordion-theme-default.vc_tta.vc_general .vc_tta-panel .vc_tta-panel-heading:hover,
+.wpb-fp-filter li.active,
+.site-content .course-tabs .learn-press-nav-tabs .course-nav.active,
+body #course-curriculum-popup #popup-main #popup-header,
+.learn-press-user-profile .learn-press-tabs-wrapper-x .learn-press-subtabs > li.current,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+body.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+.learn-press-content-item-summary button,
+#popup_panel input[type="button"],
+.ep-course-navigations form[name="search-course"] .search-course-button:hover, .ep-course-navigations form[name="search-course"] .search-course-button:focus,
+body .lp-list-table thead tr th {
+	border-color: #25c1e7;
+}
+
+body .lp-list-table tbody tr:first-child td, body .lp-list-table tbody tr:first-child th {
+	border-top-color: #25c1e7;
+}
+
+
+/**
+ * Dark
+ */
+
+/* Color */
+a:focus, a:hover {
+	color: #14a4c7;
+}
+
+/* Background */
+
+.btn-primary:hover, .btn-primary:hover, .btn-primary:focus, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover,
+.btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary,
+.button-primary:hover, input[type="submit"].button-primary:hover,
+.ep-single-course-header .lp-course-buttons button:hover, .ep-single-course-header .lp-course-buttons button:focus,
+input[type="submit"].wpcf7-submit:hover, input[type="submit"].wpcf7-submit:focus,
+.tml-submit-wrap input[type="submit"]:hover, .tml-submit-wrap input[type="submit"]:focus,
+.btn-primary.disabled.focus, .btn-primary.disabled:focus, .btn-primary.disabled:hover, .btn-primary[disabled].focus, .btn-primary[disabled]:focus, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary:hover,
+.ep-course-slider.ep-default-width-slider.owl-theme .owl-controls .owl-buttons > div:hover,
+.ep-post-slider.owl-theme .owl-controls .owl-buttons > div:hover,
+.ep-event-slider.owl-theme .owl-controls .owl-buttons > div:hover,
+.ep-instructor-content-type-slider.owl-theme .owl-controls .owl-buttons > div:hover,
+.ep-social-icons ul li a:hover,
+.ep_profile_login_page > a:hover > span,
+.ep_profile_login_page > a:focus > span,
+.ep_profile_login_page > a:active > span,
+body #course-curriculum-popup #popup-main #popup-header .popup-close:hover, 
+body #course-curriculum-popup #popup-main #popup-header .sidebar-hide-btn:hover, 
+body #course-curriculum-popup #popup-main #popup-header .sidebar-show-btn:hover,
+.woocommerce #respond input#submit:hover, 
+.woocommerce a.button:hover, 
+.woocommerce button.button:hover, 
+.woocommerce input.button:hover,
+.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,
+#tribe-bar-form .tribe-bar-submit input[type=submit]:hover, #tribe-bar-form .tribe-bar-submit input[type=submit]:focus,
+.tribe-events-read-more:hover, .tribe-events-read-more:focus,
+#tribe-events-content .tribe-events-calendar .mobile-active:hover, #tribe-events-content .tribe-events-calendar td.tribe-events-othermonth.mobile-active, #tribe-events-content .tribe-events-calendar td.tribe-events-othermonth.mobile-active div[id*=tribe-events-daynum-], #tribe-events-content .tribe-events-calendar td.tribe-events-othermonth.mobile-active div[id*=tribe-events-daynum-] a, .tribe-events-calendar .mobile-active div[id*=tribe-events-daynum-], .tribe-events-calendar .mobile-active div[id*=tribe-events-daynum-] a, .tribe-events-calendar td.mobile-active,
+#tribe-events-content .tribe-events-calendar td.tribe-events-present.mobile-active:hover, .tribe-events-calendar td.tribe-events-present.mobile-active, .tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-], .tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-] a,
+.learn-press-content-item-summary button:hover, .learn-press-content-item-summary button:focus,
+#popup_panel input[type="button"]:hover, #popup_panel input[type="button"]:focus,
+.pmpro_btn:hover, .pmpro_content_message a:hover, input[type=submit].pmpro_btn:hover,
+#learn-press-pmpro-notice.purchase-course a:hover, #learn-press-pmpro-notice.purchase-course a:focus, #learn-press-pmpro-notice.purchase-course a:active,
+#profile-content-settings button:hover, #profile-content-settings button:focus,
+.become-teacher-form button:hover, .become-teacher-form button:focus,
+.place-order-action button:hover, .place-order-action button:focus,
+.submit-review:hover, .submit-review:focus {
+	background: #14a4c7;
+}
+
+/* Border */
+.ep-course-grid .course-category:before, 
+.ep-course-slider .course-category:before,
+.ep-post-grid .ep-post-category:before, 
+.ep-post-slider .ep-post-category:before {
+	border-right-color: #14a4c7;
+}
+.btn-primary:hover, .btn-primary:hover, .btn-primary:focus, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover,
+.btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary,
+.ep-single-course-header .lp-course-buttons button:hover, .ep-single-course-header .lp-course-buttons button:focus,
+.mc4wp-form-fields input[type="text"]:focus,
+.widget_search .search-field:focus,
+body #course-curriculum-popup #popup-main #popup-header .popup-menu,
+.tribe-events-calendar thead th,
+.tribe-events-list .tribe-events-event-cost span,
+.learn-press-content-item-summary button:hover, .learn-press-content-item-summary button:focus,
+#popup_panel input[type="button"]:hover, #popup_panel input[type="button"]:focus,
+.pmpro_btn, .pmpro_btn:link, .pmpro_content_message a, .pmpro_content_message a:link {
+	border-color: #14a4c7;
+}
+
+
+
+
+/**
+ * Light
+ */
+
+ 
+
+
+/**
+ * Extra Light
+ */
+
+.learn-press-user-profile .learn-press-tabs.ep-user-profile-menu > li.current a,
+.learn-press-user-profile .learn-press-tabs.ep-user-profile-menu > li > a:hover,
+.learn-press-user-profile .learn-press-tabs-wrapper-x .learn-press-subtabs > li.current a,
+.learn-press-user-profile .learn-press-tabs-wrapper-x .learn-press-subtabs > li a:hover,
+.woocommerce-MyAccount-navigation ul li.is-active a,
+.woocommerce-MyAccount-navigation ul li a:hover {
+	background: rgba( 51, 204, 255, 0.1 );
+}
+.learn-press-user-profile .learn-press-tabs.ep-user-profile-menu > li a,
+.learn-press-user-profile .learn-press-tabs.ep-user-profile-menu > li:last-child a,
+.woocommerce-MyAccount-navigation ul li a {
+	border-color: rgba( 37, 193, 231, 0.1 );
+}
+
+ 
